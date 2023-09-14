@@ -1,7 +1,4 @@
-FUAwalker   四通道凉鞋(新厂家)
-UAwalker     单通道+二合一+长待机(新厂家)
-FUHwalker   四通道凉鞋(金海创)
+FUAwalker    四通道凉鞋(弘毅)
+UAwalker     单通道+二合一+长待机(弘毅)
+FUHwalker    四通道凉鞋(金海创)
 UHwalker     单通道+二合一+长待机(金海创)
-Uwalker       单通道+二合一(船鞋)
-Walker         老蓝牙板+单通道传感器板
-FWalker       老蓝牙板+四通道传感器板
